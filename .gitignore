@@ -4,3 +4,4 @@ dags/meteo.db
 .env
 __pycache__/
 *.pyc
+venv/
